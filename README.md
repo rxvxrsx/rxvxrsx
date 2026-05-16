@@ -71,4 +71,4 @@
     </div>
 <hr/>
 
-<h3 align="center">©️ Reverse By CYFER</h3>
+<h3 align="center">©️ Reverse By 9KD</h3>
