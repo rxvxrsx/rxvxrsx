@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 9KD</h1>
+<h1 align="center">Hi 👋, I'm REVERSE</h1>
 
 * 🌍  I'm based in Thailand
 * ⚡  I’m currently learning Next.js, React
@@ -71,4 +71,4 @@
     </div>
 <hr/>
 
-<h3 align="center">©️ Reverse By 9KD</h3>
+<h3 align="center">©️ REVERSE</h3>
